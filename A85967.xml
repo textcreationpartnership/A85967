@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The ghost of Sr. John Presbjter, wherein he desireth that the rest of that faction may desist, and prosecute no further that monster of Presbytery. Also, his advertisement to one of his deare children, whom he left out of his will, by reason of his great rage of his sicknes.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85967</idno>
+            <idno type="STC">Wing G637</idno>
+            <idno type="STC">Thomason E401_22</idno>
+            <idno type="STC">ESTC R201789</idno>
+            <idno type="EEBO-CITATION">99862286</idno>
+            <idno type="PROQUEST">99862286</idno>
+            <idno type="VID">114439</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85967)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114439)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E401[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The ghost of Sr. John Presbjter, wherein he desireth that the rest of that faction may desist, and prosecute no further that monster of Presbytery. Also, his advertisement to one of his deare children, whom he left out of his will, by reason of his great rage of his sicknes.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare, of the Presbyterian feare. 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "August 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Satire, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114439:1" rendition="simple:additions"/>
+            <p> THE GHOST OF SR. <hi>JOHN PRESBJTER,</hi> Wherein he deſireth that the reſt of that faction may deſiſt, and proſecute no further that Monſter of PRESBYTERY.</p>
+            <p>Alſo, his advertiſement to one of his deare children, whom he left out of his Will, by reaſon of his great rage of his ſicknes.</p>
+            <figure>
+               <figDesc>woodcut of man in robes</figDesc>
+            </figure>
+            <p>Printed in the yeare, of the <hi>Presbyterian</hi> feare. 1647.</p>
+            <pb facs="tcp:114439:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:114439:2"/>
+            <head>The Ghoſt of Sr. JOHN PRESBYTER, WHEREIN He deſireth, that the reſt of that faction may deſiſt and proſecute no farther that mon<g ref="char:EOLhyphen"/>ſter of <hi>PRESBYTERY.</hi>
+            </head>
+            <p>DEare friends that are enemies to that monſter of the Preſ<g ref="char:EOLhyphen"/>byterian Government, I muſt now confeſſe, that it is ſuch a devouting monſter, that I hope the people of <hi>England</hi> will not ſet it up; For by it the Prieſts that labour with might and maine to ſet it up, who ever be looſer by it, they will be ſure to be gainers, and will eate even as a Cancer in your eſtates: but the ruſt of them ſo eaten by the Preiſts, ſhall be a witneſſe againſt them, as you may ſee, in the 5 of <hi>James</hi> and the 3 ver. and now my freinds that do now oppoſe the monſter of <hi>Presbyter,</hi> I muſt confeſſe that you did nothing but truth in reſiſting that Scottiſh Monſter, although when I was with you, you did tell me for my good, that it was a Land-devourer, which now I find that your words are ve<g ref="char:EOLhyphen"/>ry true; Therefore now my deare friends, take the view of the <hi>Preſ<g ref="char:EOLhyphen"/>byterian</hi> Prieſts and compare their practiſes to the word, and ſee how oppreſſive they are, looke upon the 18 of <hi>Deuterinomy</hi> and the 3 ver. That when a Sacrifice was to be offered up, the Prieſts were to have the ſhoulder, the two Cheeks and the maw, and yet they will ſay that it is <hi>Iewiſh;</hi> but ſhal I tell you why it is <hi>
+                  <gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ewiſh?</hi> it is be<g ref="char:EOLhyphen"/>cauſe their portion is too little, if it were the half, or the 3 part of <gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, then it were ſomwhat like; looke likewiſe, in the 1 of <hi>Sam.</hi> the 2 and 13. 14 <hi>ver.</hi> For the Prieſts cuſtome towards the people was this, When a man offered ſacrifice, the the Preiſts boy came while the fleſh was ſeething with the fleſh hooke i<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> his hand with 3 teeth in it, and thruſt it into the Kettle, Pan, Caldron, or Pot, and all that the fleſh-hooke brought up was for the Prieſt; but what now
+<pb n="2" facs="tcp:114439:3"/> if he took up all, muſt the people have nothing but the Broth? Nay, truly they might be glad if they could get that, for covetuouſnes is a thing that runs generally to all; looke in the 6. of <hi>Ieremiah,</hi> the 13. verſe, from the leaſt of them, even to the greateſt of them, every one is given to covetuouſneſſe from the Prophet to the Prieſt, they all deale falſly. Looke like wiſe, in the 22. of <hi>Ezek.</hi> the 25. verſe <hi>They devoure ſoules,</hi> and in the 28. verſe. <hi>They have daubed with un<g ref="char:EOLhyphen"/>tempered Morter, ſeeing vanities and divining lyes unto them,</hi> ſaying, <hi>Thus ſaith the Lord, when the Lord had not ſpoken.</hi> Now in the ſame kind, do the Prieſts of England, they ſay that their borrowed <hi>Scottiſh</hi> monſter of bitterneſſe it ſelfe is from God, and that God hath re<g ref="char:EOLhyphen"/>vealed it to them, when indeed the Lord hath not ſpoken to them; they would fayne make the people beleeve what they pleaſe, and if they ſaid it is truth, the people muſt beleeve it. Conſider that 3. of <hi>Micah</hi> and 11. verſe. <hi>The heads thereof judge for a reward, the Prieſts thereof teach for hyer, the Prophets thereof prophecy for m<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny; Yet, will they leaue upon the Lord, and ſay is not the Lord amongſt us? no evill can come upon us.</hi> I pray God that text be not true of the Judges, Prieſts and Prophets of <hi>England,</hi> and ſo be like them of the houſe of <hi>Iſrael,</hi> and ſo the old Proverbe be made upon them, never a Barrell better herring. And truly my friends, ſhall I tell you why my Antichriſtian brethren do hate the godly people of this City and Kingdom, I wil tell you it is becauſe they are not of this world, even as Chriſt was not of this world; For could the Saints of God hold with them in their wicked deſigne that they proſecute, then they ſhould be one of them, and be very much reſpected by them; But ſee<g ref="char:EOLhyphen"/>ing that theſe oppoſe their <hi>Scotch</hi> Government they ſhall be oppo<g ref="char:EOLhyphen"/>ſed. I have heard many ſay when I was with you, that when it did raine ſlowly, we would ſay that it was but a <hi>Scottiſh</hi> miſt, but it would wet an <hi>Engliſhman</hi> to the skin: ſo now I muſt confeſſe, and ſay of their Government, that it is but a <hi>Scottiſh</hi> one, but if it be erected in <hi>England,</hi> it will rend and tare, and divide the Kingdom, it will turne it upſide downe: and therefore now my loving friends that was to me, I meane the <hi>Synod,</hi> did you but know what now I ſuffer by preſſing mens Conſciences, to that Scotch faction, you would deſiſt &amp; proſecute that ill begotten Monſter of Presbyter no further; Therefore let my torment though unſeene and unfelt by you, be ſuch an example to you, that you may for ever bleſſe God that Sir
+<pb n="3" facs="tcp:114439:3"/> 
+               <hi>Iohn Presbyter</hi> deceaſed and that his Ghoſt ſhould communicate ſuch evills as is wrapt up in that Government; for truly I muſt confeſſe, that it is hereticall and obnoxious, and will undo King and State, you all know that I did as much labour to bring it a<g ref="char:EOLhyphen"/>bout to erect it, as ever you can do; but now finding that it is ſo abuſive, both to God and Saints that were, I now amongſt you a<g ref="char:EOLhyphen"/>gayne inſtead of ſetting of it out in pompe and glory, I would diſ<g ref="char:EOLhyphen"/>cover the ill conſequences that are in it; for truly when I was as one of you, what did we labour but onely to get wealth into our owne keepings, although it was to the woe and griefe of the In<g ref="char:EOLhyphen"/>habitants of <hi>England,</hi> nay our holy Convocaſion that was in King <hi>Henry</hi> the 7. Chappill, what did we treate on there, but onely to tye mens Conſciences to what we beleeved, and if we beleeved that the Church of <hi>Rome</hi> is a true Church, the people muſt beleeve it or elſe they ſhall be banniſhed; we thought then that our deſignes were gallantly carried on, if we could get Mr. <hi>Henry Wilkinſon</hi> to treate with <hi>Stapleton, Mancheſter,</hi> and <hi>Hollis,</hi> to carry on our wicked deſignes; we could make them be<g ref="char:EOLhyphen"/>lieve that white was black, and black was white, and they being intoxicated by the Prieſt, could intoxicate the truth of their unjuſt; never the like heard of practices in the braynes of other, and they muſt beleeve it, becauſe it came from the Prieſt, and ſo of neceſſity it muſt be truth; and ſo the poore people muſt believe that the Miniſter cannot err, even as the Prieſt believes that the Pope cannot err; but to another of the ſame faction! O Mr. <hi>Love,</hi> truly it is to be feared, nay I am confident, that you love your ſelfe more then the glory of God? why do you ſtill perſiſt and incenſe the people againſt the Army, in telling them that it doth not belong to Officers and Souldiers, men of Warre, to looke af<g ref="char:EOLhyphen"/>ter Juſtice, and Judgement; whereas if you were a true Miniſter of Jeſus Chriſt, you ſhould incourage the people, and give glory to God, and looke upon them with admiration, that God ſhould ſtir up men of Warre to ſee that Juſtice and Judgement might run downe as a mighty ſtreame.</p>
+            <p>I would not have you to make a Trade and Traffick of the Goſpel; do not tell the people any more that it is the Ordinance of God that the Goſpel that you preach to, ſhould maintaine you, though you have ſufficient meanes of your own, or elſe what man
+<pb n="4" facs="tcp:114439:4"/> of parts and quallity will be a Miniſter, truly Mr. <hi>Love.</hi> I was once of your minde; but now were I out of torments, I would do the worke for the workes ſake, and I would with <hi>Paul</hi> in the 3. of <hi>Philippians</hi> and the 8. verſe, <hi>account all things but droſſe and dung in compariſon of the excellent knowledge of Ieſus Chriſt;</hi> and therefore let this my torment be a meanes to hinder you from proſecuting that will-worſhip; for were it not paynefull to the Prieſts, they would never labour ſo to ſet it up; therefore all ye Prieſts and people that are for that Monſter of Presbytery, do no longer keepe Chriſt out of his Throne by labouring to ſet up an Antichriſtian Government, I am confident if you do, it will c<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt <hi>England</hi> deare the moduliſing of it; but if it ſhould be erected, you Prieſt of the new found Monſter out of your exorbitant great paynes, that you will get by it, you cannot in conſcience but re<g ref="char:EOLhyphen"/>quite the Clergy of <hi>Scotland</hi> for helping you to ſo much payne by ſuch a Monſter that was begot in Hell, nurſed up in <hi>Scotland,</hi> and what now <hi>England</hi> will you be ſuch fooles to bring it up to is full groath, and maturity, truly if you do, you will bring up a bird to pick out your own eyes.</p>
+            <p>And now a word more to another of my newer able brats! O Mr. <hi>Edward?</hi> what ſtill <hi>Rebeckah</hi> like, no amendment, ſuch, a Father, ſuch a Child, indeede you are in a very high eſteeme with the Divel; for he ſaith you are one of the beſt Chaplins that ever he had, becauſe you do in no wayes degenerate from him; but if now the queſtion be asked, why the Divel hath his Chapling ſo farr re<g ref="char:EOLhyphen"/>mote from him, I will tell you the reaſon of it, is becauſe he doth him a great deal better ſervice in <hi>England</hi> then he can do him in H<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll; for he can tell the people lyes, and then ſhew them reaſons: Fathers and politick wrighters for it; the Divel he is an accuſer of the Brethren, and you accuſe that faithfull and never to be for<g ref="char:EOLhyphen"/>gotten Army, under the Command of his Excellency Sir <hi>Thomas Fairfax;</hi> what accuſations and aſperſions do you caſt upon them, in ſaying that Sir <hi>Thomas</hi> and his Army Chriſtianed a Horſe; well thou <hi>Gangreen,</hi> he that ſet you a worke will pay you your wages, that you above all ſhall not neede to Petition the Houſe of Lords for Tithes for your part, the Divel will give you more then you will be willing to have; well Children Presbyterians, for your ſake, I am much troubled and toſſed to and fro, and all becauſe I
+<pb n="5" facs="tcp:114439:4"/> would not have you to tread the ſame path that I have trod, leaſt you be as bad perplexed as now I am, I was a great Epiſcopall man once, then the wind turned, then I became a deſembler, like the reſt that met at the holy Convocation houſe, then we muſt dance a <hi>Scotch</hi> Gigg, and the title of it muſt be a <hi>Scotch</hi> Covenant for <hi>Englands</hi> Inhabitants, but truly now the caſe is altered with me; now I ſay, muſt <hi>Scottiſh</hi> factions be <hi>Englands</hi> rule and example, and then we muſt ſweare to ſuppreſſe all Popiſh and popiſh inno<g ref="char:EOLhyphen"/>vations, and for the exterpating of Biſhops and their adherents, what now friend cut downe the Biſhops and rayſe up their Go<g ref="char:EOLhyphen"/>vernment under another notion! O brave Prieſt, gallant deſem<g ref="char:EOLhyphen"/>bler, truly if I could tell where to get a bottle, I would ſend it to the Pope, for a bottel full of holy water, to waſh your deſembling faces; I pray in the meane time, take your handkerchers and wipe your noſes, for you ſtink in the noſtrills of every honeſt man, where was all your hiſtories, and Scollerſhip, and Fathers, and pollitick writers, what all the Biſhops Liberaries pawned for <hi>Muskedine,</hi> and rolles that you could not contrive a Church-Go<g ref="char:EOLhyphen"/>vernment without the <hi>Scots,</hi> but ſeeing that you have got it by hooke and by crooke, and up it ſhall go if poſſible you can, ſeeing you will ſo perſiſt in it; Winter is a coming, and you cannot ſit without fire; therefore let <hi>Docter G<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ug</hi> be your Wood-monger, to provide wood and Coles for that holy Convocation, becauſe he hath very good skill in Coles, but this I muſt tell you, you muſt looke very warily to him, or elſe he will connive, and play under<g ref="char:EOLhyphen"/>hand with you; but Countreymen, <hi>I</hi> much wonder that we in the other world ſhould heare as much now as you do in this, let me tell you that the Divel hath his hoſt amongſt you every day, and a thing is no ſooner<g ref="char:punc">▪</g> in agitation with you, but we have it with us, we can heare of your new confeſſions of Faith that you made, and of the queries propounded from the Parliament to you, and of the 50. queſtions propounded to you, but as yet we can hear no anſwer to any of them, and I am confident never ſhall; Truly the courſe that now you ſteare is wrong, it will never bring you to happineſſe; for it tends to nothing but oppreſſion and cruelty, or elſe why do you labour for power to be given you into your hand, for the banniſhing of all godly men out of the Kingdome; therefore take this word of exhortation to you, deſiſt from la<g ref="char:EOLhyphen"/>bouring
+<pb n="6" facs="tcp:114439:5"/> to ſet up the divelliſh Monſter, and do no longer <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> againſt the ſtreame to keepe Chriſt out of his Throne, for Jeſus Chriſt will raigne; truly my feare, nay my confidence is that <gap reason="illegible" resp="#MURP" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ny of you draw neere to God with your mouth when your heart<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap> are farre remote from him, you can make gallant flatterings and deſemblings how that you ſeeke for nothing but the glory of God, when intruth it is nothing ſoe, your faire pretences are but like <gap reason="illegible" resp="#MURP" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> body without a head, a ſhaddow without a ſubſtance, you would fayne ſhew your ſelves to the people to be milk white Saynts, when indeede you are as yet black Divels; for you do the drudgery of Hell; but God that ſits in Heaven laughes you and your doing to ſcorne, and this my time limited being expired, I bid you adieu till the next opportunity.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
